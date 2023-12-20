@@ -1,12 +1,12 @@
 # Cloud Files
 
-For installation and usage please [read the documentation](docs/index.md)
+For installation and usage please [read the documentation](docs/docs/index.md)
 
 ## Contributing
 
 ### Changelog
 
-Every change should be documented in the [Changelog](changelog.md) under the `Unreleased` section and categorized as either `Fixed`, `Added`, or `Changed`.  These types of changes will also correspond with whether the next release is a `Patch (fixes)`, `Minor (additions)`, or `Major (changes)`.
+Every change should be documented in the [Changelog](docs/changelog.md) under the `Unreleased` section and categorized as either `Fixed`, `Added`, or `Changed`.  These types of changes will also correspond with whether the next release is a `Patch (fixes)`, `Minor (additions)`, or `Major (changes)`.
 
 ### Prefixing Dependencies
 
